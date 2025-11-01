@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg"/>
+<img src="https://i.pinimg.com/1200x/b2/ce/d7/b2ced74d9d47194044d0ab309360b7ba.jpg"/>
 <h1 align="center">Hi 👋, I'm Reshma Nasreen</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybjJ0eG82ZXczaTZ2cnk1OXRrZ2tsMXAxeHR5bWFxb3RjZzdkZ2YzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200w.gif" /> </p>
