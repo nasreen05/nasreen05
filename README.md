@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h1 align="center">
   404: Ordinary intros not found. I'm Nasreen 🌸<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+developer+from+India;I+love+solving+problems+and+building+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Currently+debugging+my+life+and+my+code+at+the+same+time;I+love+solving+problems+and+building+UIs" alt="Typing SVG" />
 </h1>
 <div align="center">
  <img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/KzuZqZfJxeGCS9G93VP5zHDDrDWNNNjpd5E53GxRPv4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhalF6Wm1OdFl6/bDJjM013YUdKcmJ6/QTJiWGh4Y0c1eE5X/dzJjbm93YWpOaWNq/aHNNREUzZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vNzhYQ0ZCR09s/UzZrZVkxQmlsL2dp/cGh5LmdpZg.gif">
