@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasreen05&label=Profile%20views&color=0e75b6&style=flat" alt="nasreen05" /> </p>
 
-- 🌱 I’m currently learning **JDBC , Spring Boot etc**
+- 🌱 I’m currently learning ** manual testing , automation testing , advance java like-JPA , Spring Boot , Rest API  etc**
 
-- 💬 Ask me about **Java , Web Technology , DataBase, etc**
+- 💬 Ask me about ** Core Java , Web Technology , DataBase, sql ,  etc**
 
 - 📫 How to reach me **reshmanasreen30@gmail.com**
 
