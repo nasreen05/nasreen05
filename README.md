@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate QA Engineer and Full Stack Developer from India</h3>
 <h1 align="center">
   404: Ordinary intros not found. I'm Nasreen 🌸<br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=1200&lines=Still+learning+still+growing+,+but+always+ready+to+commit+;Pushing+code+today+to+pull+a+better+future+tomorrow" alt="Typing SVG" />
