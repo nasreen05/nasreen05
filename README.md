@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/reshma nasreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshma nasreen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/reshmanasreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reshmanasreen" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/reshmanauzkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reshmanauzkx" height="30" width="40" /></a>
+  <a href="https://x.com/nasreen79094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reshmanauzkx" height="30" width="40" /></a>
 </p>
 <img  width="1200" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif"/>
 
